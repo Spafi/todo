@@ -1,4 +1,4 @@
-# ToDo app
+# To Do app
 
 ### Built With
 
@@ -23,6 +23,10 @@
 - PostgreSQL
 
   [Download](https://www.postgresql.org/download/)
+
+## API Documentation
+- Swagger UI:  http://server:port/swagger-ui.html
+- Open API 3: http://server:port/v3/api-docs
 
 ## Getting Started
 
