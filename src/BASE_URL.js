@@ -1,4 +1,4 @@
-const BASE_URL = 'https://spaf-todo.herokuapp.com/';
+const BASE_URL = 'https://spaf-todo.herokuapp.com';
 
 export default BASE_URL;
 
