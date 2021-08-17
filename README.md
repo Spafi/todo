@@ -28,12 +28,15 @@
 
 To get a local copy up and running follow these simple steps:
 
-#### Frontend:
-
-1. Clone the repo from frontend branch
+1. Clone the repo
    ```sh
    git clone https://github.com/Spafi/todo.git
    ```
+
+#### Frontend:
+
+1. Switch to the frontend branch
+ 
 2. Install NPM packages
    ```sh
    npm install
@@ -45,11 +48,6 @@ To get a local copy up and running follow these simple steps:
 
 #### Backend:
 
-1. Clone the repo from backend branch
-
-   ```sh
-   git clone https://github.com/Spafi/todo.git
-   ```
-
+1. Switch to the backend branch
 2. Create the PostgreSQL database
 3. Replace the connection properties with your database credentials in `src/main/resources/application.properties`
